@@ -12,7 +12,7 @@ In this project, let's build a **Coin Toss Game**
 
 ### Set Up Instructions
 
-<details>
+
 
 
 - Download dependencies by running `npm install`
